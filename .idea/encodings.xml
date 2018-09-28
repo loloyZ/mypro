@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/wei/src/Messages.properties" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/wei/src/Pages.properties" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/wei/src/com/wei/cn/dbc/DatabaseConnection.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/wei/src/com/wei/cn/servlet/UserServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/wei/src/com/wei/cn/util/AttributeType.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wei/src/com/wei/cn/util/BeanOperate.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/wei/src/com/wei/cn/util/StringUtils.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/wei/src/com/wei/cn/util/ValidateParameter.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/wei/src/com/wei/cn/util/ValidateUtil.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wei/web/pages/other.jsp" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

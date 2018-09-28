@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="wei:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/wei_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="wei/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="wei" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="application" name="jspSmartUpload" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
